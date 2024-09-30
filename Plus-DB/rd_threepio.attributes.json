@@ -1,0 +1,3807 @@
+[{
+  "_id": {
+    "$oid": "6186629c40a7d82ac6d4daf4"
+  },
+  "slug": "parking",
+  "name": "پارکینگ",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 4a3 3 0 00-3 3v18a3 3 0 003 3h18a3 3 0 003-3V7a3 3 0 00-3-3H7zm6 4a1 1 0 00-1 1v14a1 1 0 102 0v-7h5a3 3 0 003-3v-2a3 3 0 00-3-3h-6zm6 6h-5v-4h5a1 1 0 011 1v2a1 1 0 01-1 1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/44171ff64816c45baf3a36ffe8448ee595f15ad591f9e8d18e08214d948236cd_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:10:20.606Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.811Z"
+  },
+  "short_id": "b954e154",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 44
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866331f2cfe6c102c555d1"
+  },
+  "slug": "pool",
+  "name": "استخر",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M22.5 2C24.43 2 26 3.57 26 5.5a1 1 0 11-2 0c0-.827-.673-1.5-1.5-1.5S21 4.673 21 5.5V16h8a1 1 0 01.993.883L30 17v12a1 1 0 01-1 1H3a1 1 0 01-1-1V17a1 1 0 011-1h7V5.5C10 3.57 11.57 2 13.5 2S17 3.57 17 5.5a1 1 0 11-2 0c0-.827-.673-1.5-1.5-1.5S12 4.673 12 5.5V8h7V5.5C19 3.57 20.57 2 22.5 2zM10.707 24.293a3.834 3.834 0 00-5.414 0 .999.999 0 101.414 1.414 1.83 1.83 0 012.586 0 3.834 3.834 0 005.414 0 1.83 1.83 0 012.586 0A3.817 3.817 0 0020 26.826c.98 0 1.961-.373 2.707-1.119a1.83 1.83 0 012.586 0 .999.999 0 101.414-1.414 3.834 3.834 0 00-5.414 0c-.691.691-1.895.691-2.586 0a3.834 3.834 0 00-5.414 0c-.691.691-1.895.691-2.586 0zm0-4a3.834 3.834 0 00-5.414 0 .999.999 0 101.414 1.414 1.83 1.83 0 012.586 0 3.834 3.834 0 005.414 0 1.83 1.83 0 012.586 0A3.817 3.817 0 0020 22.826c.98 0 1.961-.373 2.707-1.119a1.83 1.83 0 012.586 0 .999.999 0 101.414-1.414 3.834 3.834 0 00-5.414 0c-.691.691-1.895.691-2.586 0a3.834 3.834 0 00-5.414 0c-.691.691-1.895.691-2.586 0zM19 14h-7v2h7v-2zm0-4h-7v2h7v-2z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/10c5a5be267dde3e4963cb33bf671494020795aacb1b313d45844b136b1add9b_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:12:49.685Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.813Z"
+  },
+  "short_id": "fb94f205",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 42
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6186641340a7d82ac6d4daf5"
+  },
+  "slug": "ATM",
+  "name": "خودپرداز",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M10 4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2H10zM5 6a1 1 0 000 2h1a1 1 0 100-2H5zm20 1a1 1 0 011-1h1a1 1 0 010 2h-1a1 1 0 01-1-1zM5 10a1 1 0 100 2h1a1 1 0 100-2H5zm20 1a1 1 0 011-1h1a1 1 0 010 2h-1a1 1 0 01-1-1zM5 14a1 1 0 100 2h1a1 1 0 100-2H5zm20 1a1 1 0 011-1h1a1 1 0 010 2h-1a1 1 0 01-1-1z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 20a1 1 0 011-1h14a1 1 0 110 2h-1v5a2 2 0 01-2 2h-8a2 2 0 01-2-2v-5H9a1 1 0 01-1-1zm6 1h4a2 2 0 11-4 0zm-.152 4.235A2 2 0 0114 26h-2v-2a2 2 0 011.848 1.235zm5.387-1.083A2 2 0 0120 24v2h-2a2 2 0 011.235-1.848z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/b0f070bcc0c60aa28026e09b92f4470f7c778c9da43b4a7e810f35a9a4b2c3d9_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:16:35.232Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.830Z"
+  },
+  "short_id": "c654d0b1",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 23
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866461407e8e05a55a71c3"
+  },
+  "slug": "restaurant",
+  "name": "رستوران",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a1 1 0 011 1v.102A5.01 5.01 0 0120.898 13H24a1 1 0 110 2h-7v8a1 1 0 11-2 0v-8H8a1 1 0 110-2h3.102A5.01 5.01 0 0115 9.102V9a1 1 0 011-1zm13.008 1l.116.008a1 1 0 01.868 1.116L29 18.061V23a1 1 0 11-2 0v-1h-4.524l-.547 1.371a1 1 0 01-1.858-.742l2-5a1 1 0 01.93-.629h4.116l.891-7.124a1.004 1.004 0 011.116-.868l-.116-.007zm-26.132.008a.998.998 0 011.116.868L4.882 17H9a1 1 0 01.929.629l2 5a1 1 0 01-1.857.742L9.524 22H5v1a1 1 0 11-2 0v-4.938l-.992-7.938a1 1 0 01.868-1.116z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7e6ca305fad9ff02c5cc1f19119f734870fccbfb856648ef160bfee18560ab60_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:17:53.664Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.810Z"
+  },
+  "short_id": "1b0e49fd",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 46
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6186669340a7d82ac6d4daf6"
+  },
+  "slug": "Petsnotallowed",
+  "name": "ورود حیوانات ممنوع",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20.026 2.65a1 1 0 01.474.85v5.51l4.114 3.2a1 1 0 01.367.594l.43 2.154 2.73 2.274.066.06 1 1c.076.077.14.165.188.26.088.177.113.346.123.435.013.107.014.213.01.308a3.807 3.807 0 01-.082.63 6.022 6.022 0 01-.56 1.54c-.134.253-.308.629-.504 1.052-.079.169-.16.345-.245.524-.141.302-.287.606-.422.867-.043.083-.09.17-.137.256L12.155 8.74l.078-.03a6.47 6.47 0 01.709-1.11 15.72 15.72 0 011.62-1.764c1.26-1.195 2.88-2.426 4.49-3.231a1 1 0 01.974.043zM23 15a1 1 0 11-2 0 1 1 0 012 0z\" fill=\"#4B5259\"/>\n  <path d=\"M9.02 10.434c-2.891 2.045-5.045 4.98-6.834 7.485a1 1 0 00.14 1.32l11.5 10.5a1 1 0 001.672-.797c-.02-.358-.115-.807-.2-1.211a45.252 45.252 0 01-.046-.228c-.104-.506-.197-1.025-.22-1.547-.044-1.015.177-1.942 1.093-2.675 1.364-1.092 2.776-.83 4.495-.124.585.24 1.162.525 1.73.815l.328.168.1.052 3.515 3.515a1 1 0 001.414-1.414l-22-22a1 1 0 00-1.414 1.414l4.727 4.727z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/448934150222c1f8dca8825fe668dc2a7c791e6b0886d087b85910c41e75b3c5_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:27:15.156Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.831Z"
+  },
+  "short_id": "323edb0f",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 22
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6186689e40a7d82ac6d4daf7"
+  },
+  "slug": "meetingroom",
+  "name": "برگزاری جلسات یا مهمانی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 9a3 3 0 116 0 3 3 0 01-6 0zM2 10a3 3 0 116 0 3 3 0 01-6 0zm28 0a3 3 0 10-6 0 3 3 0 006 0zM2 17a3 3 0 116 0v2.382l2.447 1.224A1 1 0 0111 21.5v4a1 1 0 01-1.949.316l-.791-2.374-3.51-.293A3 3 0 012 20.16V17zm28 0a3 3 0 10-6 0v2.382l-2.447 1.224A1 1 0 0021 21.5v4a1 1 0 001.949.316l.791-2.374 3.51-.293A3 3 0 0030 20.16V17zm-19 0a1 1 0 100 2h10a1 1 0 100-2h-1.5v-1a3 3 0 00-3-3h-1a3 3 0 00-3 3v1H11z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/fa86d526c8cc0e43bf0d0fdb29243251ec4817a77e1d4060e09aad980a9f34f2_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:35:58.908Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.837Z"
+  },
+  "short_id": "96117065",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 21
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618668d940a7d82ac6d4daf8"
+  },
+  "slug": "Sauna",
+  "name": "سونا",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M5 13a1 1 0 00-1 1v3h24v-3a1 1 0 00-1-1H5zm-1 6h6v9H6a2 2 0 01-2-2v-7zm16 0h-8v9h8v-9zm8 0h-6v9h4a2 2 0 002-2v-7zM14.698 3.401h.001a1 1 0 111.593 1.211 1.99 1.99 0 00-.244.568c-.087.346-.088.767.252 1.22a3.362 3.362 0 01.592 2.905 3.992 3.992 0 01-.508 1.172l-.084.123a1 1 0 11-1.593-1.213 1.99 1.99 0 00.244-.568A1.365 1.365 0 0014.7 7.6a3.362 3.362 0 01-.592-2.904 3.992 3.992 0 01.56-1.252l.02-.026.006-.01.003-.004.001-.002zM9.699 4.4v.001l-.002.002-.003.004-.007.01-.018.026a3.64 3.64 0 00-.209.343 4.003 4.003 0 00-.352.909A3.362 3.362 0 009.7 8.6c.34.453.338.873.251 1.22a1.991 1.991 0 01-.257.588A1 1 0 0011.3 11.6l.084-.123a3.993 3.993 0 00.507-1.173A3.362 3.362 0 0011.3 7.4a1.365 1.365 0 01-.252-1.22 1.99 1.99 0 01.258-.588A1 1 0 009.699 4.4zm10.001 0l-.001.001-.001.002-.003.004-.007.01-.019.026a3.654 3.654 0 00-.209.343 4.003 4.003 0 00-.352.909A3.362 3.362 0 0019.7 8.6c.34.453.338.873.252 1.22a1.99 1.99 0 01-.244.567l-.014.02A1 1 0 0021.3 11.6l.085-.123a3.993 3.993 0 00.507-1.173A3.362 3.362 0 0021.3 7.4a1.365 1.365 0 01-.252-1.22 1.99 1.99 0 01.258-.588A1 1 0 0019.7 4.4z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/574d763be2b25f7b9e09fe2680ae17ccf61f5ff87ba5a6d1c78430e1388110cf_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:36:57.874Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.822Z"
+  },
+  "short_id": "2eccb5fe",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6186692140a7d82ac6d4daf9"
+  },
+  "slug": "Terrace",
+  "name": "تراس",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M11 2a1 1 0 00-1 1v5.5h5V2h-4z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.1 16c.608 0 1.081.511 1.317 1.071C7.89 18.2 9.093 19 10.5 19h11c1.407 0 2.609-.801 3.083-1.929.236-.56.71-1.071 1.317-1.071.608 0 1.113.5.969 1.09-.265 1.082-.915 2.032-1.814 2.725A2.99 2.99 0 0126 22v5a3 3 0 01-3 3H9a3 3 0 01-3-3v-5c0-.861.363-1.638.944-2.185-.898-.693-1.548-1.643-1.813-2.725-.144-.59.361-1.09.969-1.09zM20 21v7h2v-7h-2zm-3 0h-2v7h2v-7zm-5 0h-2v7h2v-7z\" fill=\"#4B5259\"/>\n  <path d=\"M17 8.5V2h4a1 1 0 011 1v5.5h-5zm5 2h-5V17h4a1 1 0 001-1v-5.5zm-7 0V17h-4a1 1 0 01-1-1v-5.5h5z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "unknown"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:38:09.510Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.837Z"
+  },
+  "short_id": "883829d6",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618669a240a7d82ac6d4dafa"
+  },
+  "slug": "lift",
+  "name": "آسانسور",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4 4a2 2 0 012-2h20a2 2 0 012 2v26h-5V12a2 2 0 00-2-2H11a2 2 0 00-2 2v18H4V4zm16.517 2h-3.034a.2.2 0 00-.142.341L18.86 7.86a.2.2 0 00.282 0l1.518-1.52a.2.2 0 00-.143-.34zm-9.034 2a.2.2 0 01-.142-.341L12.86 6.14a.2.2 0 01.282 0l1.518 1.52a.2.2 0 01-.142.341h-3.034z\" fill=\"#4B5259\"/>\n  <path d=\"M11 30h4V12h-4v18zm6 0h4V12h-4v18z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/8a1ff242454bf2eb9e6388b970bdd1ddbf2391a595b01d3da5f7e5b37c6d8cc8_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:40:18.889Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.814Z"
+  },
+  "short_id": "9e864584",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 41
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618669d740a7d82ac6d4dafb"
+  },
+  "slug": "Solarium",
+  "name": "سولاریوم",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M9.312 7.7a14 14 0 0118.54 4.848 1 1 0 11-1.693 1.064 12 12 0 00-20.26-.09 1 1 0 11-1.684-1.08 14 14 0 015.097-4.741zM7.732 20a2 2 0 10-3.465 0H3a1 1 0 00-.707 1.707l3 3A1 1 0 006 25h1a1 1 0 001 1h3a1 1 0 001-1h8a1 1 0 001 1h3a1 1 0 001-1h1a1 1 0 00.707-.293l3-3A1 1 0 0029 20h-3.586l1.293-1.293a1 1 0 00-1.414-1.414l-.707.707H18a1 1 0 00-1-1h-7a1 1 0 00-1 1v2H7.732z\" fill=\"#4B5259\"/>\n  <path d=\"M17 11a1 1 0 10-2 0v3a1 1 0 102 0v-3zm1.544-.891a1 1 0 011.346.435l1.125 2.198a1 1 0 01-1.78.911l-1.125-2.198a1 1 0 01.434-1.346zm-6.309.435a1 1 0 111.78.91l-1.125 2.2a1 1 0 01-1.78-.912l1.125-2.198z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/fd68ba68503da24b793dc57a723b73bef0a5735b6f697f863e8f9a1036dd7c6e_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:41:11.797Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.838Z"
+  },
+  "short_id": "5b0a1525",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 38
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 19
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866a9b407e8e05a55a71c4"
+  },
+  "slug": "wheelchair",
+  "name": "دسترسی ویلچر",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M7 4c1.654 0 3 1.346 3 3h12c1.654 0 3 1.346 3 3a1 1 0 11-2 0 1 1 0 00-1-1h-1v7.31a4.964 4.964 0 012.935 2.834l.75 1.875c1.842.098 3.315 1.615 3.315 3.48 0 1.93-1.57 3.5-3.5 3.5S21 26.43 21 24.5c0-1.277.697-2.387 1.724-2.997l-.647-1.616A2.985 2.985 0 0019.292 18h-.729c.278.783.437 1.623.437 2.5 0 4.136-3.364 7.5-7.5 7.5S4 24.636 4 20.5a7.505 7.505 0 014-6.628V7a1 1 0 00-1-1H5a1 1 0 110-2h2zm4.5 13C9.57 17 8 18.57 8 20.5S9.57 24 11.5 24s3.5-1.57 3.5-3.5-1.57-3.5-3.5-3.5zm0 2c.827 0 1.5.673 1.5 1.5s-.673 1.5-1.5 1.5-1.5-.673-1.5-1.5.673-1.5 1.5-1.5zM19 9h-9v4.15A7.487 7.487 0 0117.486 16H19V9z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7aced3887dd65c4dbe010b70d097624ed1d4375f6f5c8dab53607dce459dbad6_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:44:27.755Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.815Z"
+  },
+  "short_id": "5e2587ae",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 37
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866b1040a7d82ac6d4dafc"
+  },
+  "slug": "barber",
+  "name": "خدمات آرایشگاه و زیبایی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M23 6a1 1 0 100 2h4a1 1 0 011 1h-5a1 1 0 100 2h5v1h-5a1 1 0 100 2h5v1h-5a1 1 0 100 2h5v8a1 1 0 102 0V9a3 3 0 00-3-3h-4z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.876 6.008a1 1 0 011.116.868v.003l.001.004.002.012.004.043c.004.035.01.086.015.15.012.13.027.314.04.546.024.464.04 1.121.008 1.908-.066 1.566-.327 3.679-1.126 5.81a37.617 37.617 0 01-1.282 2.992c.313.618.624 1.2.92 1.73a4 4 0 11.177 4.143l-.007-.01-.026-.038a24.181 24.181 0 01-.445-.685 50.546 50.546 0 01-1.733-2.958 52.096 52.096 0 01-1.733 2.958 36.26 36.26 0 01-.445.685l-.025.038-.007.01a4 4 0 11.177-4.143c.295-.53.607-1.112.919-1.73a37.624 37.624 0 01-1.282-2.993c-.8-2.13-1.06-4.243-1.126-5.81a20.227 20.227 0 01.009-1.907 14.542 14.542 0 01.054-.696l.004-.043.002-.012v-.007a1 1 0 111.985.248v.004l-.003.026a12.768 12.768 0 00-.045.587 18.2 18.2 0 00-.007 1.717c.06 1.434.298 3.321 1 5.191.165.44.34.877.523 1.306.183-.429.358-.865.524-1.306.7-1.87.94-3.757 1-5.19a18.11 18.11 0 00-.008-1.718 12.5 12.5 0 00-.045-.587l-.003-.026v-.004a1 1 0 01.868-1.116zM6 20a2 2 0 100 4 2 2 0 000-4zm11.08 0a2 2 0 110 4 2 2 0 010-4z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/b08e963ef807a067928230634bd5746173db137c456e8aeda2abd1a0fcb4f1c6_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:46:24.132Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.840Z"
+  },
+  "short_id": "f190185c",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 36
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 18
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866b9c40a7d82ac6d4dafd"
+  },
+  "slug": "library",
+  "name": "کتابخانه",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M27 24a1 1 0 00-1-1V12.465a2.411 2.411 0 00.539-4.59l-8.963-3.842a4 4 0 00-3.152 0L5.461 7.874A2.41 2.41 0 006 12.465V23a1 1 0 000 2h20a1 1 0 001-1zM8 12.5h7V23H8V12.5zM24 23h-7V12.5h7V23z\" fill=\"#4B5259\"/>\n  <path d=\"M27 28a1 1 0 100-2H5a1 1 0 000 2h22z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/08cfa0f4f9469ada9f20a5e9b7d6ea207c980b20f09657c0246776686f5e587c_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:48:44.156Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.840Z"
+  },
+  "short_id": "d5d18b8a",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 35
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866c4940a7d82ac6d4dafe"
+  },
+  "slug": "gym",
+  "name": "سالن بدنسازی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M21.948 4.684a1 1 0 01-.632 1.265l-1.103.367a1 1 0 00-.632 1.265l1.141 3.424a7 7 0 013.84 13.021l.886 2.658a1 1 0 01-1.897.633l-.842-2.527a7.017 7.017 0 01-6.879-2.07l-8.144 1.913A3 3 0 014 21.713v-2.646a3 3 0 012.537-2.964l1.295-.202L6.382 13H5a1 1 0 110-2h5a1 1 0 110 2H8.618l1.277 2.553a.964.964 0 01.011.024l4.857-.76a7.022 7.022 0 013.974-3.443l-1.053-3.16a3 3 0 011.897-3.795l1.103-.367a1 1 0 011.264.632zm-4.432 9.73a3.885 3.885 0 011.046 7.664l-.34.08a5 5 0 10-.705-7.744zM11 20a1 1 0 11-2 0 1 1 0 012 0z\" fill=\"#4B5259\"/>\n  <path d=\"M5 27a1 1 0 011-1h4a1 1 0 110 2H6a1 1 0 01-1-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/2fdc391378aed9b17883aae34685ec4aa39c5da93cbb637361d139b8393584ea_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:51:37.677Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.821Z"
+  },
+  "short_id": "b959fae5",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 34
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 31
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866cad40a7d82ac6d4daff"
+  },
+  "slug": "wedding",
+  "name": "تالار عروسی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.275 2.21a2 2 0 011.45 0l8.637 3.358a1 1 0 01-.724 1.864L16 4.073l-8.638 3.36a1 1 0 01-.724-1.865l8.637-3.359zM8 17a1 1 0 011-1v13a1 1 0 001.155.988L14.116 18.4v-1.1c0-1.46.996-2.698 2.375-3.133a2.997 2.997 0 00-.989-.167H9a3 3 0 00-3 3v4.5a1 1 0 102 0V17z\" fill=\"#4B5259\"/>\n  <path d=\"M22 10a3 3 0 11-6 0 3 3 0 016 0zm1.09 3.762a2.081 2.081 0 01-.42-3.012l2.442 1.754a2.081 2.081 0 01.421 3.012l-2.442-1.754z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.72 14.16c1.915 0 3.467 1.478 3.467 3.3v1.1l3.328 10.302c.183.565-.261 1.138-.883 1.138H13.226c-.608 0-1.05-.55-.892-1.108l2.921-10.332v-1.1c0-1.822 1.552-3.3 3.466-3.3z\" fill=\"#4B5259\"/>\n  <path d=\"M15 10a3 3 0 11-6 0 3 3 0 016 0z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/2ef819eb4dd5f682521a31ce60439b20a62dfab77f0e1dbdefd704da8a30f43c_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:53:17.613Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.841Z"
+  },
+  "short_id": "15a4c6fa",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 33
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 16
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866cf7407e8e05a55a71c5"
+  },
+  "slug": "conference",
+  "name": "سالن کنفرانس",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M18.92 4.64a2.64 2.64 0 11-5.28 0 2.64 2.64 0 015.28 0zM9.622 19h3.018v4.12a1.88 1.88 0 003.64.662 1.88 1.88 0 003.64-.662V19h2.458a3 3 0 012.966 2.555l.3 2A3 3 0 0122.678 27H9.322a3 3 0 01-2.966-3.445l.3-2A3 3 0 019.622 19z\" fill=\"#4B5259\"/>\n  <path d=\"M13.64 22.967v.153a.88.88 0 001.76 0v-5.44a.88.88 0 011.76 0v5.44a.88.88 0 001.76 0v-5.28h-.006v-6.936L20.171 13a2 2 0 001.789 1.105h2.382a1 1 0 000-2H21.96l-1.79-3.16C19.833 8.269 19.258 8 18.5 8h-4.86A2.64 2.64 0 0011 10.64v3.96a.88.88 0 001.76 0v-3.96c0-.132.03-.258.082-.37.232-.501.798-.062.798.49v12.207zM10 28a1 1 0 100 2h12a1 1 0 100-2H10z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/fc05a526ffafd910b281859cf92dcf0ec33b57d041f9fdc6bb18cfda789dc973_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:54:31.457Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.843Z"
+  },
+  "short_id": "8fae9f5e",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 32
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866da5f2cfe6c102c555d2"
+  },
+  "slug": "safebox",
+  "name": "صندوق امانات",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 10a4 4 0 014-4h20a4 4 0 014 4v11a4 4 0 01-4 4 1 1 0 01-1 1h-3a1 1 0 01-1-1H11a1 1 0 01-1 1H7a1 1 0 01-1-1 4 4 0 01-4-4V10zm5 1a1 1 0 100 2h1a1 1 0 100-2H7zm0 3.5a1 1 0 100 2h1a1 1 0 100-2H7zM6 19a1 1 0 011-1h1a1 1 0 110 2H7a1 1 0 01-1-1zm5-8a1 1 0 100 2h1a1 1 0 100-2h-1zm-1 4.5a1 1 0 011-1h1a1 1 0 110 2h-1a1 1 0 01-1-1zm1 2.5a1 1 0 100 2h1a1 1 0 100-2h-1zm4-7a1 1 0 100 2h1a1 1 0 100-2h-1zm-1 4.5a1 1 0 011-1h1a1 1 0 110 2h-1a1 1 0 01-1-1zm1 2.5a1 1 0 100 2h1a1 1 0 100-2h-1zm12-4a1 1 0 10-2 0v3a1 1 0 102 0v-3z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/97928bb6205146aacd7608345dcc645a2bdfec8252a625d092c1ef50e888f451_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T11:57:25.572Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.816Z"
+  },
+  "short_id": "e08bbfe1",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 31
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 38
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866f17407e8e05a55a71c6"
+  },
+  "slug": "nonsmoking",
+  "name": "کشیدن سیگار ممنوع",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.242 3.97a1 1 0 10-.485-1.94c-2.45.613-3.815 2.663-3.562 4.759.257 2.134 2.112 3.894 5.197 4.205l1.816-1.816a90.685 90.685 0 00-1.608-.173c-2.41-.24-3.302-1.48-3.42-2.456-.122-1.017.513-2.191 2.063-2.579zM4 16h7.386l-2 2-2 2-2 2H4a1 1 0 01-1-1v-4a1 1 0 011-1zm6.994 6L7.31 25.705a1 1 0 11-1.418-1.41l18.4-18.5a1 1 0 011.515 1.297c.484.458.875.988 1.184 1.554.914 1.675 1.1 3.63 1.008 4.925a1 1 0 01-1.995-.142c.074-1.039-.09-2.582-.768-3.825-.218-.4-.49-.77-.831-1.086l-1.653 1.662c.62.28 1.168.654 1.573 1.18.471.612.676 1.338.676 2.14a1 1 0 11-2 0c0-.447-.108-.721-.261-.921-.166-.216-.46-.44-.985-.65a6.284 6.284 0 00-.554-.19L16.962 16H22a1 1 0 011 1v4a1 1 0 01-1 1H10.994zM21.751 3.788c.258.417.435.864.553 1.294L20.5 6.886V6.5c0-.451-.123-1.13-.451-1.662C19.754 4.36 19.305 4 18.5 4a1 1 0 110-2c1.596 0 2.646.807 3.251 1.788zM26 17v4a1 1 0 11-2 0v-4a1 1 0 012 0zm3 4v-4a1 1 0 00-2 0v4a1 1 0 102 0z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "unknown"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:03:35.913Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.843Z"
+  },
+  "short_id": "34336dae",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 30
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 14
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866f7e407e8e05a55a71c7"
+  },
+  "slug": "designatedsmoking",
+  "name": "محل ویژه استعمال سیگار",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 30c7.732 0 14-6.268 14-14S23.732 2 16 2 2 8.268 2 16s6.268 14 14 14zm-.03-23.243a1 1 0 01-.727 1.213c-1.053.264-1.414 1.03-1.315 1.674.096.627.713 1.518 2.468 1.694 1.868.187 3.444.386 4.55.829.574.23 1.107.557 1.49 1.057.397.516.564 1.123.564 1.776a1 1 0 11-2 0c0-.3-.07-.454-.15-.558-.091-.119-.272-.268-.648-.418-.794-.319-2.07-.502-4.005-.696-2.428-.243-3.98-1.637-4.246-3.381-.265-1.729.817-3.419 2.806-3.917a1 1 0 011.213.727zM18 6a1 1 0 100 2c.696 0 1.016.246 1.192.479.21.278.308.67.308 1.021v1h1c.834 0 1.427.183 1.858.438.431.256.755.616 1 1.052.506.901.642 2.07.642 3.01a1 1 0 102 0c0-1.06-.142-2.641-.9-3.99a4.75 4.75 0 00-1.723-1.792 5.164 5.164 0 00-1.991-.663 3.493 3.493 0 00-.6-1.284C20.207 6.504 19.277 6 18 6zM6 18a1 1 0 011-1h12a1 1 0 011 1v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-1zm16-1a1 1 0 00-1 1v1a1 1 0 102 0v-1a1 1 0 00-1-1zm2 1a1 1 0 112 0v1a1 1 0 11-2 0v-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "unknown"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:05:18.253Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.844Z"
+  },
+  "short_id": "98b1fac4",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 29
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 13
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61866fc4f2cfe6c102c555d4"
+  },
+  "slug": "price",
+  "name": "محدوده‌ی قیمتی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.16 21.565V23a1.16 1.16 0 01-2.319 0v-1.399c-1.065-.14-1.943-.486-2.659-.965-.497-.332-.59-1.029-.247-1.518a1.091 1.091 0 011.5-.282 4.714 4.714 0 002.622.792c1.283 0 1.883-.568 1.883-1.202 0-1.882-6.234-.568-6.234-4.643 0-1.559 1.17-2.883 3.135-3.213V9a1.159 1.159 0 112.318 0v1.617c.714.13 1.37.353 1.946.691.541.317.655 1.058.281 1.561-.332.445-.938.55-1.42.275a4.814 4.814 0 00-2.364-.61c-.974 0-1.525.422-1.525 1.07 0 1.705 6.217.553 6.217 4.596 0 1.681-1.042 3.003-3.135 3.365zM16 2C8.28 2 2 8.28 2 16s6.28 14 14 14 14-6.28 14-14S23.72 2 16 2z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/f5cc5f3593765a4e680302e042361f32474b8a3be8e27e23129a2d6fc72d9e90_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:06:28.139Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.829Z"
+  },
+  "short_id": "f948e2e7",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 28
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 24
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618670bb40a7d82ac6d4db00"
+  },
+  "slug": "gameroom",
+  "name": "امکانات بازی و سرگرمی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M16 4a1 1 0 011 1v1h1c1.654 0 3 1.345 3 2.999h2c2.757 0 5 2.383 5 5.31v10.534c0 1.28-.696 2.392-1.817 2.898a2.87 2.87 0 01-1.187.259c-.69 0-1.371-.253-1.924-.74l-5.2-4.583c-1.101-.971-2.642-.971-3.744 0l-5.2 4.583c-.873.768-2.065.955-3.111.48C4.696 27.236 4 26.125 4 24.844V14.309c0-2.927 2.243-5.31 5-5.31h2l.005-.175A3.004 3.004 0 0114 6h1V5a1 1 0 011-1zm5.689 14.022a.93.93 0 00-.569.059c-.13.05-.23.12-.33.21-.181.19-.29.45-.29.71 0 .27.1.52.29.71.1.09.21.16.33.21a.995.995 0 001.09-.21.99.99 0 00.21-1.09.933.933 0 00-.21-.33c-.05-.04-.101-.09-.15-.12a.818.818 0 00-.18-.09.583.583 0 00-.191-.06zM10.5 13a1 1 0 00-1 1v1.5H8a1 1 0 100 2h1.5V19a1 1 0 102 0v-1.5H13a1 1 0 100-2.001h-1.5V14a1 1 0 00-1-1zm14.21 2.79c-.24-.23-.58-.34-.91-.27a.603.603 0 00-.18.06.824.824 0 00-.181.09c-.049.03-.099.08-.149.12-.181.19-.29.45-.29.71 0 .272.1.522.29.71.19.182.44.29.71.29.27 0 .52-.108.71-.29a.99.99 0 00.29-.71c0-.26-.11-.52-.29-.71zm-5.521-.27a.93.93 0 00-.569.06c-.13.05-.24.12-.33.21-.09.1-.16.21-.21.33-.06.12-.08.25-.08.38 0 .26.1.51.29.71.19.19.44.29.71.29.27 0 .52-.1.71-.29.189-.2.29-.45.29-.71 0-.13-.03-.26-.08-.38s-.12-.23-.21-.33c-.05-.04-.101-.08-.16-.12a.591.591 0 00-.17-.09.583.583 0 00-.191-.06zm3.021-2.23a.999.999 0 00-1.09-.21c-.13.05-.23.12-.33.21-.09.09-.16.21-.21.33-.06.12-.08.25-.08.38 0 .26.1.52.29.71.19.18.44.29.71.29.13 0 .26-.03.38-.08s.229-.12.33-.21a.99.99 0 00.21-1.09.933.933 0 00-.21-.33zM18 8h-4a1 1 0 00-1 .999h6l-.007-.116A1 1 0 0018 8z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/b80ffbe80501fffa8d3ce618d516fb5f05a3e1df077dd2d718ed1d79102ceffe_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:10:35.609Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.845Z"
+  },
+  "short_id": "a1f0e8ca",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 27
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618670fb407e8e05a55a71c8"
+  },
+  "slug": "transfer",
+  "name": "تاکسی سرویس",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.21 4A2.792 2.792 0 0121 6.789v1.21h.554a4.3 4.3 0 011.648.33c1.196.494 2.133 1.613 2.508 2.994L26.712 15h1.181c.83 0 1.313.352 1.572.647.654.744.576 1.829.441 2.876l-.106.826c-.399 2.082-1.932 3.67-3.847 4.128v2.525A1.999 1.999 0 0123.956 28h-.99a1.999 1.999 0 01-1.997-1.998v-2.125c-1.654.077-3.312.122-4.97.122s-3.315-.045-4.97-.122v2.125A1.999 1.999 0 019.032 28h-.99a2 2 0 01-1.997-1.998v-2.524C4.13 23.02 2.6 21.437 2.208 19.41l-.116-.887c-.135-1.047-.213-2.132.441-2.876.26-.295.743-.647 1.573-.647h1.18l1.002-3.677c.375-1.381 1.313-2.5 2.507-2.994a4.31 4.31 0 011.65-.33h.554V6.79A2.792 2.792 0 0113.789 4h4.421zm9.683 13H4.106a.752.752 0 00-.078.004c-.039.144-.053.483.048 1.263l.107.826c.26 1.339 1.392 2.399 2.746 2.516 6.02.519 12.121.519 18.14 0 1.354-.117 2.488-1.177 2.756-2.576l.097-.766c.102-.78.087-1.12.048-1.263a.747.747 0 00-.077-.004zm-9.903 1a1 1 0 110 2h-3.98a1 1 0 110-2h3.98zm-7.96 0a1 1 0 110 2H8.04a1 1 0 110-2h1.99zm13.928 0a1 1 0 110 2H21.97a1 1 0 110-2h1.99zM18.21 6h-4.422a.79.79 0 00-.789.789v1.21h6V6.79A.79.79 0 0018.21 6z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/8490cd83ce21c7efedd39d0608d5f868911e262bd5269c4dc6c7aa2f4d8661d6_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:11:39.352Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.812Z"
+  },
+  "short_id": "206e389c",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 26
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 43
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61867154f2cfe6c102c555d5"
+  },
+  "slug": "mealplan",
+  "name": "وعده‌ی غذایی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M17 5a1 1 0 10-2 0v3a1 1 0 102 0V5zm-6 1a1 1 0 10-2 0v2a1 1 0 002 0V6z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 10a1 1 0 100 2h1.2a10.01 10.01 0 004.493 6.477l-3.607 8.117a1 1 0 101.828.812L10.872 23h10.604l.867 1.88a2 2 0 101.8-.875l-2.617-5.67A10.008 10.008 0 0025.8 12H27a1 1 0 100-2H5zm14.755 9.271L20.553 21H11.76l.726-1.634A9.979 9.979 0 0016 20a9.971 9.971 0 003.755-.729zM16 18a8.003 8.003 0 01-7.748-6h15.496c-.888 3.45-4.02 6-7.748 6z\" fill=\"#4B5259\"/>\n  <path d=\"M22 5a1 1 0 011 1v2a1 1 0 11-2 0V6a1 1 0 011-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/df5db2b9d29404e69dc963f0b373b5d358a06348b64a52a4e7b6ee68face7cf7_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:13:08.867Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.845Z"
+  },
+  "short_id": "49f4a883",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 25
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 11
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618671bb40a7d82ac6d4db01"
+  },
+  "slug": "SquatToilet",
+  "name": "سرویس بهداشتی ایرانی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 4a2 2 0 012-2h16a2 2 0 012 2v24a2 2 0 01-2 2H8a2 2 0 01-2-2V4zm6.8 6.273A3 3 0 0115.787 7h.426a3 3 0 012.988 3.273l-1.08 11.79a2.13 2.13 0 01-4.243 0L12.8 10.274zM8 13a1 1 0 011-1h1.5a1 1 0 110 2H9a1 1 0 01-1-1zm12.5 0a1 1 0 011-1H23a1 1 0 110 2h-1.5a1 1 0 01-1-1zm1 3a1 1 0 100 2H23a1 1 0 100-2h-1.5zM8 17a1 1 0 011-1h1.5a1 1 0 110 2H9a1 1 0 01-1-1zm13.5 3a1 1 0 100 2H23a1 1 0 100-2h-1.5zM8 21a1 1 0 011-1h1.5a1 1 0 110 2H9a1 1 0 01-1-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/4fbd594119f5c5b83a470cb1865b67c110515a7eb9b87262bcef3eada7c0b90b_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:14:51.018Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.846Z"
+  },
+  "short_id": "cc41a1ae",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 24
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618671e640a7d82ac6d4db02"
+  },
+  "slug": "Toilet",
+  "name": "سرویس بهداشتی فرنگی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.5 6a2 2 0 012-2h4a2 2 0 012 2v9h14a1 1 0 011 1c0 4.329-2.712 8.018-6.563 9.737V27a1 1 0 01-1 1h-7.875a1 1 0 01-1-1v-1.263C7.213 24.018 4.5 20.329 4.5 16V6zM7 7.5a.5.5 0 01.5-.5h2a.5.5 0 01.5.5V12H7V7.5z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/fb69dc60044e9335fffd860e444458a9dfd3fefc99f98f0a43ecb8af87a2a47a_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:15:34.489Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.847Z"
+  },
+  "short_id": "673cecb1",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 23
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 9
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61867278407e8e05a55a71c9"
+  },
+  "slug": "agearea",
+  "name": "مناسب برای بازه‌ی سنی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a3 3 0 100-6 3 3 0 000 6zm-4.055 7.57l.425-2.846-.857.603-1.631 3.054a1 1 0 01-1.764-.942l1.631-3.054a2 2 0 01.612-.693l2.337-1.646c.246-.173.496-.35.76-.504.513-.501 1.184-.762 1.86-.653.218.035.422.106.61.207a1 1 0 01.17.102c.79.53 1.235 1.624 1.047 2.79l-1.16 7.748.174.104c.798.468 1.579.873 2.012 1.092.443.225.794.605.976 1.078l2.358 6.131a1 1 0 11-1.867.718l-2.358-6.131a.011.011 0 00-.002-.004 40.026 40.026 0 01-2.13-1.16c-.83-.486-1.757-1.082-2.371-1.653-1.03-.956-1.067-2.42-.986-3.336.034-.374.093-.72.154-1.005zm2.499 7.088l-3.515 5.857a1 1 0 11-1.715-1.029l3.515-5.857 1.715 1.029zm6.275-6.242l-2.92-2.187.36-2.229 3.759 2.815a1 1 0 01-1.199 1.6z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/207b41f3c39864150acb601129d0794e5643277fbf35cc85f017294f58f545b6_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-06T12:18:00.345Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.848Z"
+  },
+  "short_id": "41323b5a",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 22
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 8
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618a766633cb773a4f708fd1"
+  },
+  "slug": "garden",
+  "name": "فضای باز",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11 14.414v5.524A8.001 8.001 0 0112 4a8 8 0 011 15.938v-3.524l2.707-2.707a1 1 0 00-1.414-1.414L13 13.586V10a1 1 0 10-2 0v1.586l-1.293-1.293a1 1 0 10-1.414 1.414L11 14.414zM12 20c.338 0 .671-.021.998-.062A.97.97 0 0113 20v7a1 1 0 11-2 0v-7c0-.02 0-.041.002-.062.327.041.66.062.998.062zm4 5a1 1 0 011-1h1v-1h-1a1 1 0 110-2h1a1 1 0 112 0h4a1 1 0 112 0h1a1 1 0 110 2h-1v1h1a1 1 0 110 2h-1v1a1 1 0 11-2 0v-1h-4v1a1 1 0 11-2 0v-1h-1a1 1 0 01-1-1zm8-1v-1h-4v1h4z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/66444b8a8d4e022c179b4ef90469d2efe39b1980e323b8cd9bf9790f66664f01_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-09T13:23:50.354Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.848Z"
+  },
+  "short_id": "b3e2bf7b",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 21
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 7
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618a772638f6840fcb528279"
+  },
+  "slug": "free-wifi",
+  "name": "اینترنت بی‌سیم رایگان",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 20.5a3.506 3.506 0 013.505 3.5 3.506 3.506 0 01-7.01 0c0-1.93 1.572-3.5 3.505-3.5zm5.372-3.157a1.5 1.5 0 01-1.558 2.564c-2.31-1.406-5.317-1.406-7.627 0a1.505 1.505 0 01-2.062-.503 1.501 1.501 0 01.503-2.061c3.252-1.975 7.492-1.975 10.744 0zm3.195-4.799a1.5 1.5 0 01-.618 2.78l-.153.007a1.49 1.49 0 01-.77-.213 13.68 13.68 0 00-6.847-1.915h-.358c-2.386.03-4.764.669-6.847 1.915a1.491 1.491 0 01-.663.21l-.136.003a1.5 1.5 0 01-.742-2.787c2.545-1.522 5.457-2.3 8.377-2.332h.38c2.92.032 5.832.81 8.377 2.332zM16 4.5c4.125 0 8.194 1.123 11.767 3.247a1.5 1.5 0 01-1.534 2.578A20.033 20.033 0 0016 7.5c-3.586 0-7.124.976-10.233 2.825a1.5 1.5 0 11-1.534-2.578A23.047 23.047 0 0116 4.5z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/624194bc4d33ee2b33ddc631044835f8c43698767a422eb7e899d6aeb104491b_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-09T13:27:02.997Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.811Z"
+  },
+  "short_id": "357c4e23",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 20
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 40
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 45
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "618a77be38f6840fcb52827a"
+  },
+  "slug": "smooking-free",
+  "name": "استعمال دخانیات",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 30c7.732 0 14-6.268 14-14S23.732 2 16 2 2 8.268 2 16s6.268 14 14 14zm-.03-23.243a1 1 0 01-.727 1.213c-1.053.264-1.414 1.03-1.315 1.674.096.627.713 1.518 2.468 1.694 1.868.187 3.444.386 4.55.829.574.23 1.107.557 1.49 1.057.397.516.564 1.123.564 1.776a1 1 0 11-2 0c0-.3-.07-.454-.15-.558-.091-.119-.272-.268-.648-.418-.794-.319-2.07-.502-4.005-.696-2.428-.243-3.98-1.637-4.246-3.381-.265-1.729.817-3.419 2.806-3.917a1 1 0 011.213.727zM18 6a1 1 0 100 2c.696 0 1.016.246 1.192.479.21.278.308.67.308 1.021v1h1c.834 0 1.427.183 1.858.438.431.256.755.616 1 1.052.506.901.642 2.07.642 3.01a1 1 0 102 0c0-1.06-.142-2.641-.9-3.99a4.75 4.75 0 00-1.723-1.792 5.164 5.164 0 00-1.991-.663 3.493 3.493 0 00-.6-1.284C20.207 6.504 19.277 6 18 6zM6 18a1 1 0 011-1h12a1 1 0 011 1v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-1zm16-1a1 1 0 00-1 1v1a1 1 0 102 0v-1a1 1 0 00-1-1zm2 1a1 1 0 112 0v1a1 1 0 11-2 0v-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/d76655f33731dca258b18fa6f739be1a3231657fd57086e8834275a9737c5638_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-09T13:29:34.969Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.849Z"
+  },
+  "short_id": "83e2e179",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 19
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 39
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194afeff4e8e989e724e1ab"
+  },
+  "slug": "televison-in-room",
+  "name": "تلویزیون در اتاق",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M22.26 24l1.406 1.254A1 1 0 0123 27H9a1 1 0 01-.666-1.746L9.74 24h12.52zm3.71-19C27.641 5 29 6.288 29 7.871v12.257C29 21.712 27.641 23 25.97 23H6.031C4.36 23 3 21.712 3 20.128V7.871C3 6.288 4.36 5 6.031 5H25.97z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/2780f924092ed6695342d3fc88202dd5afa4c4db489671286052185e0717b087_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:31:59.969Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.817Z"
+  },
+  "short_id": "d888840a",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 18
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 37
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b043f4e8e989e724e1ac"
+  },
+  "slug": "shower",
+  "name": "حمام",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 2a1 1 0 011 1v3h1a4 4 0 014 4v1a4 4 0 014 4v3H6v-3a4 4 0 014-4v-1a4 4 0 014-4h1V3a1 1 0 011-1zm4 8v1h-8v-1a2 2 0 012-2h4a2 2 0 012 2z\" fill=\"#4B5259\"/>\n  <path d=\"M11 20a1 1 0 10-2 0v3a1 1 0 102 0v-3zm6 0a1 1 0 10-2 0v3a1 1 0 102 0v-3zm5-1a1 1 0 011 1v3a1 1 0 11-2 0v-3a1 1 0 011-1zm-3 2a1 1 0 011 1v6a1 1 0 11-2 0v-6a1 1 0 011-1zm-6 0a1 1 0 011 1v6a1 1 0 11-2 0v-6a1 1 0 011-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/b14ab4a58c288c73138704303487fc66fd39318e263b29fc89f08b4f300a4314_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:33:23.626Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.815Z"
+  },
+  "short_id": "52087a7e",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 17
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 39
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b07c3c15fdabf3d62686"
+  },
+  "slug": "drawers",
+  "name": "کمد در اتاق",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M15.856 4.007a1.5 1.5 0 00-1.266.98l-2.308 6.908H5.5a1.495 1.495 0 00-.9 2.695l5.437 4.104-2.446 7.338c-.205.62.015 1.3.542 1.682l.125.081c.51.299 1.157.27 1.642-.084l6.103-4.59 6.12 4.546c.533.388 1.247.39 1.774.007l.117-.094a1.495 1.495 0 00.426-1.585l-2.475-7.303 5.438-4.105a1.494 1.494 0 00.52-1.669 1.5 1.5 0 00-1.423-1.024h-6.782l-2.3-6.883A1.508 1.508 0 0016 4l-.144.007z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/71e541b774decac25033d730eadb92772842058cd756a9d076b600f428d17216_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:34:20.344Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.818Z"
+  },
+  "short_id": "acd0c07c",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 16
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 35
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b0c63c15fdabf3d62687"
+  },
+  "slug": "star",
+  "name": "تعداد ستاره",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M15.856 4.007a1.5 1.5 0 00-1.266.98l-2.308 6.908H5.5a1.495 1.495 0 00-.9 2.695l5.437 4.104-2.446 7.338c-.205.62.015 1.3.542 1.682l.125.081c.51.299 1.157.27 1.642-.084l6.103-4.59 6.12 4.546c.533.388 1.247.39 1.774.007l.117-.094a1.495 1.495 0 00.426-1.585l-2.475-7.303 5.438-4.105a1.494 1.494 0 00.52-1.669 1.5 1.5 0 00-1.423-1.024h-6.782l-2.3-6.883A1.508 1.508 0 0016 4l-.144.007z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/4545b5a5cfbb50e0789650ee808cab8742e17141a481bb3f76cd45a07754e85f_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:35:34.035Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.809Z"
+  },
+  "short_id": "60b6cd96",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 15
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 47
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b0ed3c15fdabf3d62688"
+  },
+  "slug": "jaccuzi",
+  "name": "جکوزی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M21.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17 15a1 1 0 11-2 0 1 1 0 012 0z\" fill=\"#4B5259\"/>\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.04 24.722a1 1 0 001.855.725L9.118 25H23c.126 0 .252-.003.377-.01l.228.457a1 1 0 001.8-.871A7.003 7.003 0 0030 18v-4c-.97-1.696-6.947-3-14-3S2.97 12.304 2 14v4a7.003 7.003 0 005.04 6.722zm20.408-10.086l.123.058c-.377.236-.964.55-1.808.871C23.92 16.265 20.835 17 16 17s-7.92-.735-9.763-1.435c-.844-.32-1.43-.635-1.808-.87.039-.02.08-.039.123-.059.621-.282 1.514-.567 2.665-.818C9.508 13.318 12.583 13 16 13s6.492.317 8.783.818c1.15.251 2.044.536 2.665.818zM14 21a1 1 0 11-2 0 1 1 0 012 0zm9 0a1 1 0 100-2 1 1 0 000 2z\" fill=\"#4B5259\"/>\n  <path d=\"M12 10a1 1 0 100-2 1 1 0 000 2z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/dad38fac7da3fe5b6b9c11fe62e62d9cec08dd79a434bd6999ccd642e7f77ea4_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:36:13.119Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.823Z"
+  },
+  "short_id": "f4536f6d",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 14
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 29
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b16b11210975a0fb2e28"
+  },
+  "slug": "massage",
+  "name": "ماساژ",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.18 7.427a1 1 0 01.706-1.224l2.874-.77a3 3 0 013.674 2.12l.253.943c.237.883.053 1.78-.427 2.479a3.986 3.986 0 011.732 2.349l.713 2.663 7.34-1.967a4 4 0 014.898 2.829l.144.535.528-.142a4.304 4.304 0 012.228 8.314l-1.53.41a1 1 0 01-1.224-.707l-1.453-5.423-1.37.367.723 3.384a2 2 0 01-1.952 2.418l-6.046.01a2 2 0 01-1.917-1.42l-.541-1.784-.072.019-.007-.025-.951.255a4 4 0 01-4.9-2.828l-2.142-7.996a1.006 1.006 0 01-.022-.108l-1.26-4.7zM12.222 17.92l.66 2.46 9.27-2.485-.141-.528a2 2 0 00-2.45-1.414l-7.339 1.967zM9.06 13.842l.714 2.662-.008.002 1.17 4.367-.95.255a2 2 0 01-2.45-1.414l-1.884-7.03.959-.257a2 2 0 012.45 1.415z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/9d20693879cdfd92f542f57fe7da3d19c5444f4272d4f2f930116e1077c12713_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:38:19.517Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.828Z"
+  },
+  "short_id": "70fe15d8",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 13
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b1e111210975a0fb2e29"
+  },
+  "slug": "minibar",
+  "name": "مینی‌بار",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2a4 4 0 00-4 4v6h17a1 1 0 110 2H6v10a4.002 4.002 0 003.008 3.876A1.01 1.01 0 009 28v1a1 1 0 102 0v-1h10v1a1 1 0 102 0v-1a1.02 1.02 0 00-.008-.124A4.002 4.002 0 0026 24V6a4 4 0 00-4-4H10zm13 5a1 1 0 10-2 0v2a1 1 0 102 0V7zm-1 9a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/15c97966eece5d6df350fe7517f372a512629c13fbad9796e174882c39bc1068_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:40:17.612Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.828Z"
+  },
+  "short_id": "735b4382",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 12
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 26
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b23411210975a0fb2e2a"
+  },
+  "slug": "laundry",
+  "name": "خشک‌شویی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 2a2 2 0 00-2 2v24a2 2 0 002 2h16a2 2 0 002-2V4a2 2 0 00-2-2H8zm2 5a1 1 0 100-2 1 1 0 000 2zm4-1a1 1 0 11-2 0 1 1 0 012 0zm-2.998 10.865L11 17a5 5 0 009.985.396 7.83 7.83 0 01-1.21.417c-1.274.322-3.107.38-4.509-1.134-.681-.736-1.598-.794-2.553-.553a6.095 6.095 0 00-1.645.698l-.018.011-.002.002a.95.95 0 01-.046.028zm9.704-1.558a6.43 6.43 0 01-1.42.567c-.954.241-1.87.183-2.552-.553-1.402-1.514-3.235-1.456-4.51-1.134-.152.038-.3.08-.442.126a5.002 5.002 0 018.924.994zM23 17a7 7 0 11-14 0 7 7 0 0114 0z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7e4e8db87a7b14abe460071840bea3951d7839ac64aa2f9b9cdfdab96651bc42_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:41:40.084Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.820Z"
+  },
+  "short_id": "ea396e84",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 11
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 33
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b268f4e8e989e724e1ad"
+  },
+  "slug": "coffee-shop",
+  "name": "کافی‌شاپ",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M24 11a1 1 0 011 1v2h1.156c1.084 0 2.123.486 2.85 1.333a4.193 4.193 0 01.943 3.378C29.653 20.617 28.11 22 26.28 22H23a.967.967 0 01-.242-.03A10.606 10.606 0 0120.65 24H26a1 1 0 011 1c0 2.757-2.243 5-5 5H7c-2.757 0-5-2.243-5-5a1 1 0 011-1h5.35A10.523 10.523 0 014 15.479V12a1 1 0 011-1h19zm.829 15H4.17A3.006 3.006 0 007 28h15a3.006 3.006 0 002.829-2zm1.327-10l-1.169.001a10.464 10.464 0 01-1.007 4l2.3-.001c.837 0 1.55-.67 1.691-1.593a2.194 2.194 0 00-.485-1.772c-.35-.409-.823-.635-1.33-.635zM14.5 2a1 1 0 011 1v5a1 1 0 11-2 0V3a1 1 0 011-1zm-4 2a1 1 0 011 1v3a1 1 0 11-2 0V5a1 1 0 011-1zm8 1a1 1 0 011 1v2a1 1 0 11-2 0V6a1 1 0 011-1z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/e45e0b987fe45bd7def2aed2376f5b84de5b3ae86c729a79a7bc55f82f4a06e1_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:42:32.385Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.821Z"
+  },
+  "short_id": "1074bcd9",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 10
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 32
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b2e211210975a0fb2e2b"
+  },
+  "slug": "fridge",
+  "name": "یخچال در اتاق",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2a4 4 0 00-4 4v6h17a1 1 0 110 2H6v10a4.002 4.002 0 003.008 3.876A1.01 1.01 0 009 28v1a1 1 0 102 0v-1h10v1a1 1 0 102 0v-1a1.02 1.02 0 00-.008-.124A4.002 4.002 0 0026 24V6a4 4 0 00-4-4H10zm13 5a1 1 0 10-2 0v2a1 1 0 102 0V7zm-1 9a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/df024d676c157bd6eca621603144b5b42aafc90d5a44d1565773ba1fba815124_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:44:34.812Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.819Z"
+  },
+  "short_id": "b4c99630",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 9
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 34
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194b66e11210975a0fb2e2c"
+  },
+  "slug": "sitplace",
+  "name": "محل نشستن",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 9a3 3 0 116 0 3 3 0 01-6 0zM2 10a3 3 0 116 0 3 3 0 01-6 0zm28 0a3 3 0 10-6 0 3 3 0 006 0zM2 17a3 3 0 116 0v2.382l2.447 1.224A1 1 0 0111 21.5v4a1 1 0 01-1.949.316l-.791-2.374-3.51-.293A3 3 0 012 20.16V17zm28 0a3 3 0 10-6 0v2.382l-2.447 1.224A1 1 0 0021 21.5v4a1 1 0 001.949.316l.791-2.374 3.51-.293A3 3 0 0030 20.16V17zm-19 0a1 1 0 100 2h10a1 1 0 100-2h-1.5v-1a3 3 0 00-3-3h-1a3 3 0 00-3 3v1H11z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/233a59c22531302673f3f02a4670c2c05e6df535b11a07a8b04ce1b083eac741_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T07:59:42.688Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.850Z"
+  },
+  "short_id": "d1cbf10b",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 8
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194c895f4e8e989e724e1ae"
+  },
+  "slug": "hiking",
+  "name": "مسیر دسترسی به صورت پیاده‌روی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 8a3 3 0 100-6 3 3 0 000 6zm-4.055 7.57l.425-2.846-.857.603-1.631 3.054a1 1 0 01-1.764-.942l1.631-3.054a2 2 0 01.612-.693l2.337-1.646c.246-.173.496-.35.76-.504.513-.501 1.184-.762 1.86-.653.218.035.422.106.61.207a1 1 0 01.17.102c.79.53 1.235 1.624 1.047 2.79l-1.16 7.748.174.104c.798.468 1.579.873 2.012 1.092.443.225.794.605.976 1.078l2.358 6.131a1 1 0 11-1.867.718l-2.358-6.131a.011.011 0 00-.002-.004 40.026 40.026 0 01-2.13-1.16c-.83-.486-1.757-1.082-2.371-1.653-1.03-.956-1.067-2.42-.986-3.336.034-.374.093-.72.154-1.005zm2.499 7.088l-3.515 5.857a1 1 0 11-1.715-1.029l3.515-5.857 1.715 1.029zm6.275-6.242l-2.92-2.187.36-2.229 3.759 2.815a1 1 0 01-1.199 1.6z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/7a341346cab64641b8fcfa2668064575e5130acbc7b3d0df427ad909fdde0af1_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T09:17:09.400Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.851Z"
+  },
+  "short_id": "3c985409",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 7
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194c8f711210975a0fb2e2d"
+  },
+  "slug": "car",
+  "name": "مسیر دسترسی با وسیله‌ی نقلیه",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M19.583 6c1.512 0 2.93.796 3.798 2.13L26.544 13h.412c.863 0 1.688.376 2.265 1.033.596.68.87 1.586.752 2.49l-.107.826c-.401 2.083-1.941 3.671-3.866 4.128V24c0 1.102-.897 2-2 2h-1c-1.102 0-2-.898-2-2v-2.123A108.2 108.2 0 0116 22a108.2 108.2 0 01-5-.122V24c0 1.102-.897 2-2 2H8c-1.102 0-2-.898-2-2v-2.523c-1.923-.456-3.463-2.038-3.855-4.067l-.117-.887a3.153 3.153 0 01.752-2.49A3.018 3.018 0 015.045 13h.41L8.62 8.13C9.487 6.796 10.906 6 12.417 6h7.166zm7.373 9H5.045c-.292 0-.562.125-.762.352a1.159 1.159 0 00-.273.913l.108.827c.26 1.338 1.402 2.4 2.765 2.516 6.049.52 12.186.52 18.235 0 1.363-.117 2.504-1.178 2.775-2.577l.098-.766a1.159 1.159 0 00-.273-.913 1.007 1.007 0 00-.762-.352zM18 16a1 1 0 110 2h-4a1 1 0 110-2h4zm-8 0a1 1 0 110 2H8a1 1 0 110-2h2zm14 0a1 1 0 110 2h-2a1 1 0 110-2h2z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/19b16595b1cba3a4c9a143f2e1588069e9e004911d354761296d0dcd92aa4405_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T09:18:47.689Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.851Z"
+  },
+  "short_id": "922b7688",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 6
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194e23811210975a0fb2e2e"
+  },
+  "slug": "toilet-ir",
+  "name": "سرویس بهداشتی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 4a2 2 0 012-2h16a2 2 0 012 2v24a2 2 0 01-2 2H8a2 2 0 01-2-2V4zm6.8 6.273A3 3 0 0115.787 7h.426a3 3 0 012.988 3.273l-1.08 11.79a2.13 2.13 0 01-4.243 0L12.8 10.274zM8 13a1 1 0 011-1h1.5a1 1 0 110 2H9a1 1 0 01-1-1zm12.5 0a1 1 0 011-1H23a1 1 0 110 2h-1.5a1 1 0 01-1-1zm1 3a1 1 0 100 2H23a1 1 0 100-2h-1.5zM8 17a1 1 0 011-1h1.5a1 1 0 110 2H9a1 1 0 01-1-1zm13.5 3a1 1 0 100 2H23a1 1 0 100-2h-1.5zM8 21a1 1 0 011-1h1.5a1 1 0 110 2H9a1 1 0 01-1-1z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/3594920eb2ebfb98f685f37ce039485b35bae858321f557d2bfd4b7fa42fb7eb_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T11:06:32.399Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.817Z"
+  },
+  "short_id": "5930c94f",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 5
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 46
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 36
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194e2fe3c15fdabf3d6268a"
+  },
+  "slug": "takeaway",
+  "name": "بیرون‌بر",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M24 20h-1v-3c0-1.103-.897-2-2-2h-3c-1.103 0-2 .897-2 2v3H8v-6.025a3.718 3.718 0 002.5-1.173A3.726 3.726 0 0013.25 14 3.726 3.726 0 0016 12.802 3.726 3.726 0 0018.75 14a3.726 3.726 0 002.75-1.198 3.718 3.718 0 002.5 1.173V20zm-6 0h3v-3h-3v3zm.5 5h-5a1 1 0 110-2h5a1 1 0 110 2zm6.3-20.6A1 1 0 0024 4H8a1 1 0 00-.8.4C6.238 5.683 4 8.82 4 10.25c0 1.433.817 2.665 2 3.296V25c0 1.654 1.346 3 3 3h14c1.654 0 3-1.346 3-3V13.546c1.184-.631 2-1.863 2-3.296 0-1.43-2.238-4.567-3.2-5.85z\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/e0e56af578ca3bc111b59d39612c7a530f2c4da0b6e4a375f0349a60c92011b7_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T11:09:50.148Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.852Z"
+  },
+  "short_id": "e1e7d355",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 43
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 41
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 4
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6194e53c11210975a0fb2e2f"
+  },
+  "slug": "mountain",
+  "name": "مسیر دسترسی به صورت کوهپیمایی",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 5a1 1 0 011-1h11a1 1 0 011 1v7a1 1 0 01-1 1H17v8.017c5.053.176 9 1.668 9 3.483 0 1.933-4.477 3.5-10 3.5S6 26.433 6 24.5c0-1.693 3.436-3.106 8-3.43v2.005c-1.755.135-3.277.441-4.41.838-.578.202-.997.408-1.28.587.283.18.702.385 1.28.587 1.295.453 3.095.788 5.172.884.076.02.156.029.238.029V5zm7.41 20.087c-1.344.47-3.233.813-5.41.894V23.02c2.177.081 4.066.423 5.41.894.578.202.997.408 1.28.587-.283.18-.702.385-1.28.587zm1.667-.9l-.008.01.008-.01zm-16.154 0l.008.01-.008-.01zm0 .626l.008-.01a.086.086 0 01-.008.01zm16.146-.01l.008.01-.008-.01z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/211a675c151d63429fe756e56ea13c766aeff7f4389077f090fe9ed7df22e6d1_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-17T11:19:24.684Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.853Z"
+  },
+  "short_id": "63459638",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 3
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 45
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 44
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 42
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 47
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "61967df23c15fdabf3d6269b"
+  },
+  "slug": "pool-game",
+  "name": "میز بیلیارد",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"32\" height=\"32\" fill=\"white\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.00821 7.74163C4.00276 7.82705 4 7.9132 4 8V24C4 25.8638 5.27477 27.4299 7 27.874V13.5001C7 12.9478 7.44771 12.5001 8 12.5001C8.55228 12.5001 9 12.9478 9 13.5001L9 28H24C26.2091 28 28 26.2091 28 24V8.50017L14 8.50005C13.4477 8.50005 13 8.05233 13 7.50004C13 6.94776 13.4477 6.50005 14 6.50005L27.7093 6.50016C27.116 5.03416 25.6788 4 24 4H8C7.9132 4 7.82705 4.00276 7.74163 4.00821C9.56191 4.13233 11 5.64822 11 7.5C11 9.433 9.433 11 7.5 11C5.64822 11 4.13233 9.56191 4.00821 7.74163ZM17 15C17 16.1046 16.1046 17 15 17C13.8954 17 13 16.1046 13 15C13 13.8954 13.8954 13 15 13C16.1046 13 17 13.8954 17 15ZM16 23C17.1046 23 18 22.1046 18 21C18 19.8954 17.1046 19 16 19C14.8954 19 14 19.8954 14 21C14 22.1046 14.8954 23 16 23ZM23 17C23 18.1046 22.1046 19 21 19C19.8954 19 19 18.1046 19 17C19 15.8954 19.8954 15 21 15C22.1046 15 23 15.8954 23 17Z\" fill=\"black\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/d76a4b07a2565341e4c0f98815a0f21c175f94eba1fe500bc7f36e50921d3e61_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-18T16:23:14.838Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.827Z"
+  },
+  "short_id": "0d5f6226",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 2
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 27
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "619bae1f96ec1f9cdabeb391"
+  },
+  "slug": "meeting-hall",
+  "name": "سالن اجتماعات",
+  "icon": {
+    "svg": "<svg width=\"32\" height=\"32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 9a3 3 0 116 0 3 3 0 01-6 0zM2 10a3 3 0 116 0 3 3 0 01-6 0zm28 0a3 3 0 10-6 0 3 3 0 006 0zM2 17a3 3 0 116 0v2.382l2.447 1.224A1 1 0 0111 21.5v4a1 1 0 01-1.949.316l-.791-2.374-3.51-.293A3 3 0 012 20.16V17zm28 0a3 3 0 10-6 0v2.382l-2.447 1.224A1 1 0 0021 21.5v4a1 1 0 001.949.316l.791-2.374 3.51-.293A3 3 0 0030 20.16V17zm-19 0a1 1 0 100 2h10a1 1 0 100-2h-1.5v-1a3 3 0 00-3-3h-1a3 3 0 00-3 3v1H11z\" fill=\"#4B5259\"/>\n</svg>\n",
+    "png_url": "https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/39bd3f85f3e9dc55393e06c2ca1ec93dc2adc4a7909b17c994ae30b4a39e9b88_original.png"
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-22T14:50:07.717Z"
+  },
+  "modified_at": {
+    "$date": "2023-08-27T12:38:45.823Z"
+  },
+  "short_id": "6cc69a01",
+  "weights": [
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aebb"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae85"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae89"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae8e"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb5"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeae"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aea1"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae91"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49ae90"
+      },
+      "weight": 1
+    },
+    {
+      "category_id": {
+        "$oid": "612b815e2d28e7b40b49aeb8"
+      },
+      "weight": 28
+    }
+  ]
+}]

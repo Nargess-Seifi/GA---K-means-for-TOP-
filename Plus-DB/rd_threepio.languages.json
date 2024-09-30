@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "639ed1ae1a1a1a4d3317b00b"
+  },
+  "short_id": "50b802e1",
+  "slug": "fa",
+  "name": "فارسی",
+  "created_at": {
+    "$date": "2022-12-18T08:39:10.695Z"
+  },
+  "modified_at": {
+    "$date": "2022-12-18T08:39:10.695Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "639ed1c5cc0705b8920e86e1"
+  },
+  "short_id": "971a53ab",
+  "slug": "en",
+  "name": "انگلیسی",
+  "created_at": {
+    "$date": "2022-12-18T08:39:33.517Z"
+  },
+  "modified_at": {
+    "$date": "2022-12-18T08:39:33.517Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "639ed1dacc0705b8920e86e2"
+  },
+  "short_id": "6e1c5940",
+  "slug": "tr",
+  "name": "ترکی استانبولی",
+  "created_at": {
+    "$date": "2022-12-18T08:39:54.220Z"
+  },
+  "modified_at": {
+    "$date": "2022-12-18T08:39:54.220Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "639ed1f41a1a1a4d3317b00c"
+  },
+  "short_id": "db00f321",
+  "slug": "az",
+  "name": "ترکی آذربایجانی",
+  "created_at": {
+    "$date": "2022-12-18T08:40:20.042Z"
+  },
+  "modified_at": {
+    "$date": "2022-12-18T08:40:20.042Z"
+  },
+  "is_deleted": false
+}]

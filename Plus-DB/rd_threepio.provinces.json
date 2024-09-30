@@ -1,0 +1,589 @@
+[{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aebd"
+  },
+  "slug": "East Azarbaijan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "آذربايجان شرقی",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.889Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.831Z"
+  },
+  "short_id": "fb9309ac"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aebe"
+  },
+  "slug": "Western Azerbaijan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "آذربايجان غربي",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.890Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.830Z"
+  },
+  "short_id": "c96ba00f"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aebf"
+  },
+  "slug": "Ardabil",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "اردبيل",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.890Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.830Z"
+  },
+  "short_id": "bbe288ff"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec0"
+  },
+  "slug": "Esfahan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "اصفهان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.892Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.829Z"
+  },
+  "short_id": "0134d23e"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec1"
+  },
+  "slug": "Alborz",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "البرز",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.892Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.828Z"
+  },
+  "short_id": "7f96333c"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec2"
+  },
+  "slug": "Ilam",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "ايلام",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.892Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.827Z"
+  },
+  "short_id": "099badbe"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec3"
+  },
+  "slug": "Bushehr",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "بوشهر",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.894Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.827Z"
+  },
+  "short_id": "713e11c4"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec4"
+  },
+  "slug": "Tehran",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "تهران",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.894Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.826Z"
+  },
+  "short_id": "62945b49"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec5"
+  },
+  "slug": "South Khorasan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "خراسان جنوبي",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.894Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.825Z"
+  },
+  "short_id": "012d83a0"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec6"
+  },
+  "slug": "Khorasan Razavi",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "خراسان رضوی",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.895Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.824Z"
+  },
+  "short_id": "62dc7600"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec7"
+  },
+  "slug": "North Khorasan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "خراسان شمالي",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.896Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.823Z"
+  },
+  "short_id": "f9f882ca"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec8"
+  },
+  "slug": "Khuzestan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "خوزستان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.896Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.823Z"
+  },
+  "short_id": "1c836ede"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aec9"
+  },
+  "slug": "Zanjan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "زنجان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.897Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.822Z"
+  },
+  "short_id": "f8aede2c"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aeca"
+  },
+  "slug": "Semnan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "سمنان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.897Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.821Z"
+  },
+  "short_id": "e156731b"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aecb"
+  },
+  "slug": "Sistan and Baluchistan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "سيستان وبلوچستان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.898Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.820Z"
+  },
+  "short_id": "b7a77031"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aecc"
+  },
+  "slug": "Fars",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "فارس",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.898Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.819Z"
+  },
+  "short_id": "22cd4ffc"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aecd"
+  },
+  "slug": "Qazvin",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "قزوين",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.898Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.818Z"
+  },
+  "short_id": "d2c65957"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aece"
+  },
+  "slug": "Qom",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "قم",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.898Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.818Z"
+  },
+  "short_id": "06b9f39c"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aecf"
+  },
+  "slug": "Kurdistan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "كردستان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.899Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.817Z"
+  },
+  "short_id": "96d3b8cf"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed0"
+  },
+  "slug": "Kerman",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "كرمان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.899Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.816Z"
+  },
+  "short_id": "6d460eb1"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed1"
+  },
+  "slug": "Kermanshah",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "کرمانشاه",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.899Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.816Z"
+  },
+  "short_id": "8bc6ca3d"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed2"
+  },
+  "slug": "Kohgiloyeh Boyerahmad",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "كهگيلويه وبويراحمد",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.900Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.815Z"
+  },
+  "short_id": "58a011c8"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed3"
+  },
+  "slug": "Golestan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "گلستان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.900Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.814Z"
+  },
+  "short_id": "684ad269"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed4"
+  },
+  "slug": "Gilan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "گيلان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.900Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.814Z"
+  },
+  "short_id": "1283a997"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed5"
+  },
+  "slug": "Lorestan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "لرستان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.900Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.813Z"
+  },
+  "short_id": "3fc9a6bf"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed6"
+  },
+  "slug": "Mazandaran",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "مازندران",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.900Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.812Z"
+  },
+  "short_id": "9015686f"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed7"
+  },
+  "slug": "Markazi",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "مرکزی",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.901Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.812Z"
+  },
+  "short_id": "e4748c4c"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed8"
+  },
+  "slug": "Hormozgan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "هرمزگان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.901Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.811Z"
+  },
+  "short_id": "c7dce226"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aed9"
+  },
+  "slug": "Hamedan",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "همدان",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.902Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.810Z"
+  },
+  "short_id": "74c2d9fa"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aeda"
+  },
+  "slug": "Chaharmahal and Bakhtiari ",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "چهارمحال وبختياری",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.902Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.809Z"
+  },
+  "short_id": "f91cf6cc"
+},
+{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aedb"
+  },
+  "slug": "Yazd",
+  "country_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "name": "یزد",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.902Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:21.808Z"
+  },
+  "short_id": "43f245b1"
+}]

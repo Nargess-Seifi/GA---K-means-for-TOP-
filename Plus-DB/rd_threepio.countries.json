@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "612b815e2d28e7b40b49aebc"
+  },
+  "slug": "iran",
+  "name": "ایران",
+  "area": null,
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-10-17T13:00:12.694Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.143Z"
+  },
+  "short_id": "feb3dc58"
+}]

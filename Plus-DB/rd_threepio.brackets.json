@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "61a4e1fbc5b8c7c8955a703f"
+  },
+  "title": "تبریز، شهر اولین‌ها",
+  "description": "جاذبه های گردشگری تبریز را اینجا بخوانید",
+  "type": "standard",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-29T14:21:47.579Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.100Z"
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "6140a4862dc2260e43ffa306",
+      "slug": "Tabriz-City",
+      "short_id": "465521cf"
+    }
+  },
+  "config": {
+    "color": ""
+  },
+  "short_id": "7feb8b3b"
+},
+{
+  "_id": {
+    "$oid": "61a4e225c5b8c7c8955a7040"
+  },
+  "title": "مشهد، شهر زیارت و سیاحت",
+  "description": "جاذبه های گردشگری مشهد را اینجا بخوانید",
+  "type": "standard",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-29T14:22:29.181Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.099Z"
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "6140a5085c49bb986631011c",
+      "slug": "Mashhad-City",
+      "short_id": "e5e24ae8"
+    }
+  },
+  "config": {
+    "color": ""
+  },
+  "short_id": "3d0cf5e4"
+},
+{
+  "_id": {
+    "$oid": "61a4e24fc5b8c7c8955a7041"
+  },
+  "title": "رشت، شهر باران و غذا",
+  "description": "جاذبه های گردشگری رشت را اینجا بخوانید",
+  "type": "standard",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-29T14:23:11.828Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.098Z"
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "slug": "Rasht-City",
+      "id": "61409a04f24eeee04882db8c",
+      "short_id": "08385766"
+    }
+  },
+  "config": {
+    "color": ""
+  },
+  "short_id": "e69d6c53"
+},
+{
+  "_id": {
+    "$oid": "61a4e2749ef809322cac1202"
+  },
+  "title": "جاذبه‌هایی که در بهار باید دید",
+  "description": "جاذبه‌هایی که در بهار باید دید",
+  "type": "carousel",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2023-04-19T07:56:02.142Z"
+  },
+  "modified_at": {
+    "$date": "2023-04-19T07:56:02.142Z"
+  },
+  "link": null,
+  "config": {
+    "color": ""
+  },
+  "short_id": "c7e63b17"
+},
+{
+  "_id": {
+    "$oid": "61a4e2be9ef809322cac1203"
+  },
+  "title": "اصفهان، شهر آب و آینه",
+  "description": "جاذبه های گردشگری اصفهان را اینجا بخوانید",
+  "type": "standard",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-29T14:25:02.654Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.097Z"
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "slug": "Isfahan-City",
+      "id": "6140a4235c49bb986631011b",
+      "short_id": "ac51e39f"
+    }
+  },
+  "config": {
+    "color": ""
+  },
+  "short_id": "3578b34d"
+},
+{
+  "_id": {
+    "$oid": "61a4e2c69ef809322cac1204"
+  },
+  "title": "شیراز، شهر شعر و ادب فارسی",
+  "description": "جاذبه های گردشگری شیراز را اینجا بخوانید",
+  "type": "standard",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-29T14:25:10.865Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.096Z"
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "6140a4bd2dc2260e43ffa307",
+      "slug": "Shiraz-City",
+      "short_id": "beb9bcc9"
+    }
+  },
+  "config": {
+    "color": ""
+  },
+  "short_id": "7fd34a9c"
+},
+{
+  "_id": {
+    "$oid": "61a4e30fc5b8c7c8955a7042"
+  },
+  "title": "ایران شگفت‌انگیز!",
+  "description": "بکرترین جاذبه‌های گردشگری ایران",
+  "type": "colored",
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2021-11-29T14:26:23.743Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.095Z"
+  },
+  "link": null,
+  "config": {
+    "color": "#fdb713"
+  },
+  "short_id": "bfb92b73"
+},
+{
+  "_id": {
+    "$oid": "621227ad6a51487003f8133f"
+  },
+  "title": "قشم، جزیره‌ای‌ سراسر شگفتی و هیجان",
+  "description": "قشم، جزیره‌ای‌ سراسر شگفتی و هیجان",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "61e291490b51c90f7538dc9f",
+      "short_id": "4e74cb0a"
+    }
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2022-02-20T11:36:13.837Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.095Z"
+  },
+  "short_id": "a73abc4f"
+},
+{
+  "_id": {
+    "$oid": "621227e16a51487003f81340"
+  },
+  "title": "کیش، شهر خلاق ایران",
+  "description": "کیش، شهر خلاق ایران",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "61e29117bfdcfb0c031a533a",
+      "short_id": "96272e89"
+    }
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2022-02-20T11:37:05.274Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.094Z"
+  },
+  "short_id": "d7c7e73b"
+},
+{
+  "_id": {
+    "$oid": "6228d37d97dda4a460265a04"
+  },
+  "title": "اهواز، انگشتر فیروزه جنوب",
+  "description": "اهواز، انگشتر فیروزه جنوب",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "61e3c3e2f5d2b914d9d7a5ea",
+      "short_id": "005ac7fc"
+    }
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2022-03-09T16:19:09.038Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.093Z"
+  },
+  "short_id": "1805b7db"
+},
+{
+  "_id": {
+    "$oid": "6240626de257497716af6d8d"
+  },
+  "title": "یزد، شهر قنات و قنوت و قناعت",
+  "description": "یزد، شهر قنات و قنوت و قناعت",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "61e290a479e84d7c0793bf3e",
+      "short_id": "18ab3493"
+    }
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2022-03-27T13:11:09.396Z"
+  },
+  "modified_at": {
+    "$date": "2022-04-30T11:23:18.092Z"
+  },
+  "short_id": "d56db2b6"
+},
+{
+  "_id": {
+    "$oid": "62f49fa14b5821950e05de4a"
+  },
+  "short_id": "5be0d003",
+  "title": "گرگان، شهر جنگل‌ها و آبشارها، اقوام و رنگ‌ها",
+  "description": "گرگان، شهر جنگل‌ها و آبشارها، اقوام و رنگ‌ها",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "624974640ca07eb5dc4da894",
+      "short_id": "bfe29003"
+    }
+  },
+  "is_deleted": false,
+  "created_at": {
+    "$date": "2022-08-11T06:20:17.007Z"
+  },
+  "modified_at": {
+    "$date": "2022-08-11T06:20:17.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "632aed0ac200c1e879189fb6"
+  },
+  "short_id": "5aa32a8b",
+  "title": "بوشهر، شبه جزیره‌ای پرشور",
+  "description": "بوشهر، شبه جزیره‌ای پرشور",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "6294ba8713635502065e21ba",
+      "short_id": "2d75a30c"
+    }
+  },
+  "created_at": {
+    "$date": "2022-09-21T10:52:58.614Z"
+  },
+  "modified_at": {
+    "$date": "2022-09-21T10:52:58.614Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "636607f7420df632c9069d4c"
+  },
+  "short_id": "760f3600",
+  "title": "چابهار یا چهار بهار؟",
+  "description": "چابهار یا چهار بهار؟",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "63411ee4ec8d0707ce4bd7e8",
+      "short_id": "9240299b"
+    }
+  },
+  "created_at": {
+    "$date": "2022-11-05T06:51:35.957Z"
+  },
+  "modified_at": {
+    "$date": "2022-11-05T06:51:35.957Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "63947e98352329265936b1bd"
+  },
+  "short_id": "4d7613c5",
+  "title": "بندرعباس، مروارید خلیج فارس",
+  "description": "بندرعباس، مروارید خلیج فارس",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "636a0d277610a578c0fbe873",
+      "short_id": "d1100ba6"
+    }
+  },
+  "created_at": {
+    "$date": "2022-12-10T12:42:00.685Z"
+  },
+  "modified_at": {
+    "$date": "2022-12-10T12:42:00.685Z"
+  },
+  "is_deleted": false
+},
+{
+  "_id": {
+    "$oid": "63bbd10de154f3f05fe6fda3"
+  },
+  "short_id": "2c2211c3",
+  "title": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+  "description": "کرمانشاه؛ خاک زرین، میهن فرهاد و شیرین",
+  "type": "standard",
+  "config": {
+    "color": ""
+  },
+  "link": {
+    "page": "city",
+    "payload": {
+      "id": "6394799b352329265936b1b7",
+      "short_id": "c8552a4c"
+    }
+  },
+  "created_at": {
+    "$date": "2023-01-09T08:32:13.535Z"
+  },
+  "modified_at": {
+    "$date": "2023-01-09T08:32:13.535Z"
+  },
+  "is_deleted": false
+}]
